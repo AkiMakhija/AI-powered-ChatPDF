@@ -5,10 +5,11 @@
 
 Welcome to the "chatpdf-yt" project, a comprehensive chat application with PDF integration. This project is designed to provide a seamless chat experience where users can upload PDF files, create chats around them, and interact with an AI assistant. The AI assistant uses the OpenAI API to generate responses based on the chat context. The application also includes a subscription feature, where users can subscribe to access premium features. The subscription process is handled using Stripe for payments and webhooks for event processing.
 
-#Upload PDF and Chat
+# Upload PDF and Chat
+
 <img width="1439" height="477" alt="chat area" src="https://github.com/user-attachments/assets/7b1a9f70-d68b-4a4a-b093-97541303f8dc" />
 
-#Manage Subscription
+# Manage Subscription
 <img width="1395" height="426" alt="5" src="https://github.com/user-attachments/assets/397e3373-d3d1-4a9d-989d-a772a4fecabf" />
 
 
