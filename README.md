@@ -1,5 +1,7 @@
 
-<img width="720" height="239" alt="1" src="https://github.com/user-attachments/assets/eb9189a1-c910-4629-b564-223559eb75a0" />
+<img width="1137" height="553" alt="4" src="https://github.com/user-attachments/assets/94c3b111-726c-421f-8173-3292e746a958" />
+
+
 ![Build and Deploy Full Stack ChatPDF Clone]
 
 # Overview
